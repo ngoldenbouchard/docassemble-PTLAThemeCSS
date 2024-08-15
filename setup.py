@@ -46,7 +46,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.PTLAThemeCSS',
       version='0.0.1',
       description=('A docassemble extension.'),
-      long_description='# docassemble.PTLAThemeCSS\n\nA docassemble extension.\n\n## Author\n\nNicole Golden-Bouchard, ngolden-bouchard@ptla.org\n\n',
+      long_description='# docassemble.PTLAThemeCSS\r\n\r\nA docassemble extension.\r\n\r\n## Author\r\n\r\nNicole Golden-Bouchard, ngolden-bouchard@ptla.org\r\n\r\n',
       long_description_content_type='text/markdown',
       author='Nicole Golden-Bouchard',
       author_email='ngolden-bouchard@ptla.org',

@@ -98,6 +98,38 @@ input:-webkit-autofill {
     transition: background-color 5000s ease-in-out 0s;
 }
 
+.alert-success {
+    --bs-alert-color: #0f5132;
+    --bs-alert-bg: #75b798;
+    --bs-alert-border-color: #75b798;
+    --bs-alert-link-color: #0f5132;
+}
+
+/*Email block on final page*/
+.card {
+    --bs-card-cap-bg: #eee;
+    --bs-card-cap-color: #000;
+    --bs-card-color: #000;
+    --bs-card-bg: #fff;
+}
+
+/* checkbox on the Email Block on the last page*/
+.form-check-input {
+    background-color: #fff;
+}
+
+/*Download button on last page*/
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #000;
+    background-color: #fff;
+    border-color: #000;
+    border-top-color: ;
+    border-right-color: ;
+    border-left-color: ;
+    border-bottom-color: #eee0;
+}
+
+
 /* --------------------------------------------------------------------
                           END OF DARK MODE
    --------------------------------------------------------------------*/
